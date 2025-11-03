@@ -1,5 +1,5 @@
 # Roman Storm Coverage Donation Mini App
-
+print("Debug: script started")
 A Farcaster Mini App that allows users to donate USDC to support independent journalism covering Roman Storm and The Rage.
 
 ## Features
